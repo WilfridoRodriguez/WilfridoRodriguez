@@ -4,7 +4,7 @@
 - 👀 Estoy interesado en estudiar programacion Web
 - 🌱 Actualmente lo estoy aprendiendo, estoy muy interesado en saber de JS
 - 💞️ Busco colaborar en trabajar en proyectos ambiciosos
-- 📫 How to reach me ...
+- 📫 Me puedes contactar por las redes sociales y a mi telefono
 
 <!---
 WilfridoRodriguez/WilfridoRodriguez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-# hello my name is Wilfrido
+# Hello my name is WilfridoRodriguez
 
 - 👋 Hi, I’m @WilfridoRodriguez
 - 👀 I’m interested in ...

@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @WilfridoRodriguez
 - 👀 Estoy interesado en estudiar programacion Web
 - 🌱 Actualmente lo estoy aprendiendo, estoy muy interesado en saber de JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Busco colaborar en trabajar en proyectos ambiciosos
 - 📫 How to reach me ...
 
 <!---
